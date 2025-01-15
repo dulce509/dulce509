@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @dulce509
-- 👀 I’m interested in ...
-estudar e aprender programação.
+    - 👋 Hi, I’m @dulce509
+    - 👀 I’m interested in ...
+    estudar e aprender programação.
+
+    Atualmente estou aprimorando meu aprendizado na DIO.
 
 <!---
 dulce509/dulce509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
